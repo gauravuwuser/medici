@@ -1,0 +1,6 @@
+{
+	"domain": "dev-tqsmz6ka.au.auth0.com",
+	"clientId": "6L6jKJBdyuXzPInzjc56rAq6StkuTFQd",
+	"audience": "https://medicinos-auth0/api",
+	"API_ORIGIN": "https://stage.medici.greenlakemedical.ai/api/v1/"
+}
